@@ -59,4 +59,4 @@ To login, go to /login. Then, you will be redirect to profile page.
 
 ### Conclusion
 
-There some challenges in this project. Please do not hesitate to reach me for suggestions :)
+There are some challenges in this project. Please do not hesitate to reach me for suggestions :)
